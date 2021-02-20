@@ -7,6 +7,6 @@ Example:
 </br>
 input: "c" => output: "d"
 </br></br>
-I implemented this project by RNN and one time step, as you may know, this is simple ANN! (because of time step)
+I implemented this project by RNN with one time step, as you may know, this is simple ANN! (because of time step)
 </br></br>
 Good luck :)
